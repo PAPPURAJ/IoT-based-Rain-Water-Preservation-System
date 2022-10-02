@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734764087362",
+    "firebase_url": "https://rain-water-preservation-system-default-rtdb.firebaseio.com",
+    "project_id": "rain-water-preservation-system",
+    "storage_bucket": "rain-water-preservation-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734764087362:android:0b0224fe51f870fd9255db",
+        "android_client_info": {
+          "package_name": "com.blogspot.rajbtc.rainwaterpreservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734764087362-ecg3tjnl7tnmq1u16v77fhpea7pi7a7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAUbQYUrXCtm3qoHJNgpax54a87fTx-T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734764087362-ecg3tjnl7tnmq1u16v77fhpea7pi7a7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
